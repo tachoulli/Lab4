@@ -50,12 +50,17 @@ Se probaron distintos tamaños de matriz y en todos los casos el programa logró
 
 Evidencias
 
-lab4eje1.1.jpg
-lab4eje1.2.jpg
-lab4eje1.3.jpg
-lab4eje2.1.jpg
-lab4eje2.2.jpg
-lab4eje2.3.jpg
+![](lab4eje1.jpeg)
+
+![](lab4eje1.2.jpeg)
+
+![](lab4eje1.3.jpeg)
+
+![](lab4eje2.jpeg)
+
+![](lab4eje2.2.jpeg)
+
+![](lab4eje2.3.jpeg)
 
 ---
 
