@@ -50,7 +50,12 @@ Se probaron distintos tamaños de matriz y en todos los casos el programa logró
 
 Evidencias
 
-Insertar aquí las capturas del ejercicio 1.
+lab4eje1.1.jpg
+lab4eje1.2.jpg
+lab4eje1.3.jpg
+lab4eje2.1.jpg
+lab4eje2.2.jpg
+lab4eje2.3.jpg
 
 ---
 
